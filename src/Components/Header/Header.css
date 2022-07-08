@@ -1,0 +1,18 @@
+.header_box{
+    height: 64px;
+    width: 100%;
+background-color: #FFFFFF;
+}
+.navbar-brand{
+    margin-left: 89px;
+
+}
+.image_size{
+    margin-top: 13px;
+    margin-bottom: 12.89px;
+}
+.page-width{
+    width: 1442px;
+    margin-left: 40px;
+    /* margin-right: 40px; */
+}
